@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OPSC7311_Task2_19331467</string>
+    <string name="front_logo">Welcome! Please register.</string>
+    <string name="email">Email address:</string>
+    <string name="password">Password:</string>
+    <string name="next">Next</string>
+    <string name="weight">Please enter your weight.</string>
+    <string name="height">Please enter your height.</string>
+    <string name="calInt">Please enter your calorie intake.</string>
+</resources>
